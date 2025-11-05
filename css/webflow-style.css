@@ -2800,7 +2800,7 @@ textarea.w-input, textarea.w-select {
 .section-about {
   background-color: var(--white);
   -webkit-text-fill-color: inherit;
-  background-image: url("../images/blue - public analog no txt.jpg");
+  background-image: url("../images/blueBlurBg.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
